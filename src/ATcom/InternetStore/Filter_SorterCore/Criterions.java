@@ -1,9 +1,9 @@
-package ATcom.InternetStore.SorterData;
+package ATcom.InternetStore.Filter_SorterCore;
 
 /**
  * Created by Gwindblaid on 03.06.2016.
  */
- enum Criterions {
+public enum Criterions {
     COMPANY,
     PRICE,
     CPU,

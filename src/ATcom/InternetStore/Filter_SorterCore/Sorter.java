@@ -1,4 +1,4 @@
-package ATcom.InternetStore.SorterData;
+package ATcom.InternetStore.Filter_SorterCore;
 
 import ATcom.InternetStore.DataBaseCore.Laptop;
 import ATcom.InternetStore.DataBaseCore.Smartphone;
